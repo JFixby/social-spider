@@ -1,11 +1,11 @@
 package com.jfixby.social.spider.test;
 
-import com.jfixby.red.desktop.DesktopAssembler;
+import com.jfixby.red.desktop.DesktopSetup;
 
 public class SocialSpiderTest1 {
 
 	public static void main(String[] args) {
-		DesktopAssembler.setup();
+		DesktopSetup.deploy();
 
 	}
 
