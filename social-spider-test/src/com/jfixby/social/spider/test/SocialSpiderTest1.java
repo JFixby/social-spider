@@ -1,6 +1,6 @@
 package com.jfixby.social.spider.test;
 
-import com.jfixby.cmns.api.desktop.DesktopSetup;
+import com.jfixby.scarabei.api.desktop.DesktopSetup;
 
 public class SocialSpiderTest1 {
 
